@@ -1,8 +1,11 @@
-# <img src="https://avatars.githubusercontent.com/u/103105168?s=200&v=4" alt="Arex Icon" width="27" height=""/>AREX - Real automated API testing with real data. 
+# <img src="https://avatars.githubusercontent.com/u/103105168?s=200&v=4" alt="Arex Icon" width="27" height=""/>AREX  
+Real automated API testing with real data. 
 
-- [AREX Handlebook](https://arextest.github.io/arex-doc/)
-- AREX Core Model  
+[AREX Handbook](https://arextest.github.io/arex-doc/)
+
+AREX Models  
 | ID | Model Name | Description |  
+| :-----| :----: | :----: |
 | 1 | [Configuration Service](https://github.com/arextest/arex-config) | A sets of configuration APIs for the   recording and replaying functions. |  
 | 2 | [Schedule Service](https://github.com/arextest/arex-replay-schedule) | A set of schedule APIs that provide replay send and  retrieve all responses for comparison. |  
 | 3 | [Agent Hook Service](https://github.com/arextest/arex-agent-java) | A basic component that  provides replaying and recording.  |  
