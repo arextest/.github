@@ -3,11 +3,11 @@ AREX is an open source automation testing tool which can record your live traffi
 
 The technical architecture of AREX:
 
-![technical architecture](https://i.328888.xyz/2023/02/02/I3D0p.png)
+![technical architecture](https://i.328888.xyz/2023/03/10/oeCrd.png)
 
-**Quickstart**
+**QuickStart**
 
-Get started with the [AREX Docs](https://arextest.github.io/arex-doc/).
+Get started with the [AREX Docs](http://arextest.com/docs/intro).
 
 **Join Community**
 
