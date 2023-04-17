@@ -1,5 +1,11 @@
 # <img src="https://avatars.githubusercontent.com/u/103105168?s=200&v=4" alt="Arex Icon" width="27" height=""/>AREX  
-AREX is an open source automation testing tool which can record your live traffic from the online environment and replay it to the test environment for regression testing.
+AREX is an open source automation testing tool which can record your live traffic from the online environment and replay it to the test environment for regression testing. With AREX, you can easily execute repetitive test cases and verify the reliability and stability of your application in different scenarios.
+
+In addition, its user-friendly interface and intuitive workflows also make it accessible to both technical and non-technical users.
+
+With AREX, you can accelerate your testing processes and identify defects and errors earlier in the development cycle, which can ultimately save time and resources. Plus, as an open source tool, AREX is constantly evolving and improving thanks to contributions from its community of users.
+
+In summary, AREX is a powerful and flexible automation testing tool that can help you streamline your testing efforts and improve the overall quality of your software applications.
 
 The technical architecture of AREX:
 
