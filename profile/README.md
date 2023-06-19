@@ -19,3 +19,5 @@ Get started with the [AREX Docs](http://arextest.com/docs/intro).
 
 - QQ Group - 656108079
 - Follow us on [Twitter](https://twitter.com/AREX_Test)
+- [Join the Mailing List](https://groups.google.com/g/arex-test)
+- [Join AREX Slack](https://arexcommunity.slack.com/ssb/redirect)
