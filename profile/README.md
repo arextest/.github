@@ -9,7 +9,7 @@ In summary, AREX is a powerful and flexible automation testing tool that can hel
 
 The technical architecture of AREX:
 
-![technical architecture](https://i.328888.xyz/2023/03/10/oeCrd.png)
+![architecture](https://github.com/arextest/.github/assets/118187476/3e976f19-07fa-4734-bbe7-3a2284607203)
 
 **QuickStart**
 
