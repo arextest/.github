@@ -22,7 +22,7 @@ The technical architecture of AREX:
 | **Model Name**                                               | **Description**                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Schedule Service](https://github.com/arextest/arex-replay-schedule) | Provides replay of all responses sent and retrieved for comparison |
-| [AREX-Web-API Service](https://github.com/arextest/arex-report) | Provides difference summaries and display detailed difference results after comparing the responses. |
+| [API Service](https://github.com/arextest/arex-report) | Provides difference summaries and display detailed difference results after comparing the responses. |
 | [Storage Service](https://github.com/arextest/arex-storage)  | Save recordings and get responses as Mock data for [Agent Hook Service](https://github.com/arextest/arex-agent-java) |
 | [AREX UI](https://github.com/arextest/arex)                                                      | Front-end presentation module for AREX                       |
 | MongoDB                                                      | Data storage and configuration management database           |
@@ -38,3 +38,4 @@ Get started with the [AREX Docs](http://arextest.com/docs/intro).
 - Follow us on [Twitter](https://twitter.com/AREX_Test)
 - [Join the Mailing List](https://groups.google.com/g/arex-test)
 - [Join AREX Slack](https://arexcommunity.slack.com/ssb/redirect)
+- [Join AREX Discord](https://discord.gg/tqESG2Jp)
