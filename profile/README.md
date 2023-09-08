@@ -38,4 +38,4 @@ Get started with the [AREX Docs](http://arextest.com/docs/intro).
 - Follow us on [Twitter](https://twitter.com/AREX_Test)
 - [Join the Mailing List](https://groups.google.com/g/arex-test)
 - [Join AREX Slack](https://arexcommunity.slack.com/ssb/redirect)
-- [Join AREX Discord](https://discord.gg/tqESG2Jp)
+- [Join AREX Discord](https://discord.gg/wy3CZHnV9K)
