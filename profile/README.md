@@ -31,7 +31,7 @@ The technical architecture of AREX:
 
 ## Getting started
 
-Get started with the [AREX Docs](http://arextest.com/docs/intro).
+Get started with the [AREX Docs](https://doc.arextest.com/docs/intro/).
 
 ## Join the AREX Community
 
