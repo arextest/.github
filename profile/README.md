@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/arextest/arex/assets/118187476/434bfe81-e2f3-40f5-a6cd-bbf84fb8003e" alt="Arex Icon" width="350" height=""/>
-
 AREX is a testing platform by recording the live traffic from online environment and replaying it to the test environment for regression testing.
 
 With AREX, you can accelerate your testing processes and identify defects and errors earlier in the development cycle, which can ultimately save time and resources. As an open source tool, AREX is constantly evolving and improving thanks to contributions from its community of users.
@@ -40,3 +37,11 @@ Get started with the [AREX Docs](https://doc.arextest.com/docs/intro/).
 - [Join the Mailing List](https://groups.google.com/g/arex-test)
 - [Join AREX Slack](https://arexcommunity.slack.com/ssb/redirect)
 - [Join AREX Discord](https://discord.gg/wy3CZHnV9K)
+
+## Known Users
+
+AREX is trusted by many known users. Welcome to register the company name in this issue: [#370](https://github.com/arextest/arex-agent-java/issues/370)
+
+<img src="https://github.com/arextest/.github/assets/118187476/111cbd04-d0fd-46c4-91aa-50941edeed3a" alt="Trip" width="250" height=""/>
+<img src="https://github.com/arextest/.github/assets/118187476/8c896278-9811-4d82-b103-692b716c610d" alt="xyb2b" width="250" height=""/>
+<img src="https://github.com/arextest/.github/assets/118187476/484b600a-2cda-4471-888c-865edeee55d1" alt="yeahka" width="250" height=""/>
