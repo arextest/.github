@@ -45,3 +45,4 @@ AREX is trusted by many known users. Welcome to register the company name in thi
 <img src="https://github.com/arextest/.github/assets/118187476/111cbd04-d0fd-46c4-91aa-50941edeed3a" alt="Trip" width="250" height=""/>
 <img src="https://github.com/arextest/.github/assets/118187476/8c896278-9811-4d82-b103-692b716c610d" alt="xyb2b" width="250" height=""/>
 <img src="https://github.com/arextest/.github/assets/118187476/484b600a-2cda-4471-888c-865edeee55d1" alt="yeahka" width="250" height=""/>
+<img src="https://github.com/arextest/.github/assets/118187476/53f799c5-64cb-4669-b5d7-3b2a62786c11" alt="yeahka" width="200" height=""/>
