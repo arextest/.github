@@ -32,11 +32,18 @@ Get started with the [AREX Docs](https://doc.arextest.com/docs/intro/).
 
 ## Join the AREX Community
 
-- QQ Group - 656108079
-- Follow us on [Twitter](https://twitter.com/AREX_Test)
-- [Join the Mailing List](https://groups.google.com/g/arex-test)
-- [Join AREX Slack](https://arexcommunity.slack.com/ssb/redirect)
-- [Join AREX Discord](https://discord.gg/wy3CZHnV9K)
+<p align="">
+  <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vTXYPzuu4zL4Oie28eo7YNT96MPHfU42&authKey=2PIypXqgLE66yP3W3umu9X21zLxDj1sFIatAKkuXCd6AmXRpmtKPtHqX9x6n38Fh&noverify=0&group_code=656108079" target="_blank"><img src="https://img.shields.io/badge/QQGroup-0085CA?style=for-the-badge&logo=tencentqq&logoColor=white"></a>
+  	&nbsp;
+  <a href="https://twitter.com/AREX_Test" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  	&nbsp;
+   <a href="https://dev.to/arex_test" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  	&nbsp;
+   <a href="https://arexcommunity.slack.com/ssb/redirect" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+  	&nbsp;
+   <a href="https://arexcommunity.slack.com/ssb/redirect" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  	&nbsp;
+</p>
 
 ## Known Users
 
