@@ -4,7 +4,7 @@ With AREX, you can accelerate your testing processes and identify defects and er
 
 ## Features
 
-- **Code no-invasion based data collection and automation Mock**: mock most components such as Dubbo, Http, Redis, persistence layer framework, configuration center;
+- **No need to write or maintain a regression suite**: builds integration tests by capturing real-world scenarios from production and run them when a new feature or change is expected to be tested.
 
 - **Support a variety of complex business scenarios of verification**: including multi-threaded concurrency, asynchronous callbacks, write operations and so on;
 
