@@ -34,6 +34,8 @@ Get started with the [AREX Docs](https://doc.arextest.com/docs/intro/).
 
 <p align="">
   <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vTXYPzuu4zL4Oie28eo7YNT96MPHfU42&authKey=2PIypXqgLE66yP3W3umu9X21zLxDj1sFIatAKkuXCd6AmXRpmtKPtHqX9x6n38Fh&noverify=0&group_code=656108079" target="_blank"><img src="https://img.shields.io/badge/QQGroup-0085CA?style=for-the-badge&logo=tencentqq&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/arextest/.github/assets/118187476/32a444d1-a559-47c2-a724-b64d5bc97716" target="_blank"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
   	&nbsp;
   <a href="https://twitter.com/AREX_Test" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   	&nbsp;
