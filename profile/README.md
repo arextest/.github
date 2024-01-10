@@ -1,38 +1,16 @@
-AREX is a testing platform by recording the live traffic from online environment and replaying it to the test environment for regression testing.
+<p align="center">
+    <img width="250" src="https://github.com/arextest/.github/assets/118187476/0896a391-ebe4-4003-935f-bc4261aa253e" alt="Livecycle Logo">
+</p>
 
-With AREX, you can accelerate your testing processes and identify defects and errors earlier in the development cycle, which can ultimately save time and resources. As an open source tool, AREX is constantly evolving and improving thanks to contributions from its community of users.
+<h1 align="center">
+Validate your app quality with real-world traffic scenarios
+</h1>
 
-## Features
+<p align="center">
+AREX is an automated testing platform by capturing the real users activity and re-use it for regression API-testing.
+</p>
 
-- **No need to write or maintain a regression suite**: builds integration tests by capturing real-world scenarios from production and run them when a new feature or change is expected to be tested.
-
-- **Support a variety of complex business scenarios of verification**: including multi-threaded concurrency, asynchronous callbacks, write operations and so on;
-
-- **Rapid reproduction of production bugs**: directly use the production recorded data in the local environment.
-
-In summary, AREX is a powerful and flexible automation testing tool that can help you streamline your testing efforts and improve the overall quality of your software applications.
-
-The technical architecture of AREX:
-
-![image](https://github.com/arextest/.github/assets/118187476/878dcc46-130a-4694-9d66-34b6ada35d7f)
-
-
-| **Model Name**                                               | **Description**                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Schedule Service](https://github.com/arextest/arex-replay-schedule) | Provides replay of all responses sent and retrieved for comparison |
-| [API Service](https://github.com/arextest/arex-report) | Provides difference summaries and display detailed difference results after comparing the responses. |
-| [Storage Service](https://github.com/arextest/arex-storage)  | Save recordings and get responses as Mock data for [Agent Hook Service](https://github.com/arextest/arex-agent-java) |
-| [AREX UI](https://github.com/arextest/arex)                                                      | Front-end presentation module for AREX                       |
-| MongoDB                                                      | Data storage and configuration management database           |
-| Redis                                                        | High-speed replay cache                                      |
-
-## Getting started
-
-Get started with the [AREX Docs](https://doc.arextest.com/docs/intro/).
-
-## Join the AREX Community
-
-<p align="">
+<p align="center">
   <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vTXYPzuu4zL4Oie28eo7YNT96MPHfU42&authKey=2PIypXqgLE66yP3W3umu9X21zLxDj1sFIatAKkuXCd6AmXRpmtKPtHqX9x6n38Fh&noverify=0&group_code=656108079" target="_blank"><img src="https://img.shields.io/badge/QQGroup-0085CA?style=for-the-badge&logo=tencentqq&logoColor=white"></a>
   &nbsp;
   <a href="https://github.com/arextest/.github/assets/118187476/32a444d1-a559-47c2-a724-b64d5bc97716" target="_blank"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
@@ -46,6 +24,41 @@ Get started with the [AREX Docs](https://doc.arextest.com/docs/intro/).
    <a href="https://arexcommunity.slack.com/ssb/redirect" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   	&nbsp;
 </p>
+
+<div align="center">
+  
+[<kbd> <br> <b> 🔭 Get Started with AREX ➜ </b> <br> </kbd>](https://doc.arextest.com/docs/intro/) [<kbd> <br> <b> 👋 Contribute to AREX ➜ </b> <br> </kbd>](https://doc.arextest.com/docs/category/development-documentation)
+
+</div>
+
+<div align="center">
+
+[⭐ Star us on GitHub](https://github.com/arextest/arex-agent-java) — it motivates us a lot!
+
+</div>
+
+---
+
+## Features
+
+- **No need to write or maintain a regression suite**: builds integration tests by capturing real-world scenarios from production and run them when a new feature or change is expected to be tested.
+
+- **Support a variety of complex business scenarios of verification**: including multi-threaded concurrency, asynchronous callbacks, write operations and so on;
+
+- **Rapid reproduction of production bugs**: directly use the production recorded data in the local environment.
+
+## Technical architecture
+
+![image](https://github.com/arextest/.github/assets/118187476/878dcc46-130a-4694-9d66-34b6ada35d7f)
+
+| **Model Name**                                               | **Description**                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Schedule Service](https://github.com/arextest/arex-replay-schedule) | Provides replay of all responses sent and retrieved for comparison |
+| [API Service](https://github.com/arextest/arex-report) | Provides difference summaries and display detailed difference results after comparing the responses. |
+| [Storage Service](https://github.com/arextest/arex-storage)  | Save recordings and get responses as Mock data for [Agent Hook Service](https://github.com/arextest/arex-agent-java) |
+| [AREX UI](https://github.com/arextest/arex)                                                      | Front-end presentation module for AREX                       |
+| MongoDB                                                      | Data storage and configuration management database           |
+| Redis                                                        | High-speed replay cache                                      |
 
 ## Known Users
 
