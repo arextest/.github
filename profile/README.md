@@ -54,7 +54,7 @@ AREX is an automated testing platform by capturing the real users activity and r
 | **Model Name**                                               | **Description**                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Schedule Service](https://github.com/arextest/arex-replay-schedule) | Provides replay of all responses sent and retrieved for comparison |
-| [API Service](https://github.com/arextest/arex-report) | Provides difference summaries and display detailed difference results after comparing the responses. |
+| [API Service](https://github.com/arextest/arex-report) | Central hub for API interfaces used by AREX's frontend, facilitating effective UI interactions. |
 | [Storage Service](https://github.com/arextest/arex-storage)  | Save recordings and get responses as Mock data for [Agent Hook Service](https://github.com/arextest/arex-agent-java) |
 | [AREX UI](https://github.com/arextest/arex)                                                      | Front-end presentation module for AREX                       |
 | MongoDB                                                      | Data storage and configuration management database           |
