@@ -41,15 +41,13 @@ AREX is an automated testing platform by capturing the real users activity and r
 
 ## Features
 
-- **No need to write or maintain a regression suite**: builds integration tests by capturing real-world scenarios from production and run them when a new feature or change is expected to be tested.
+- **Save cost**: AREX provides a modern approach to develop, execute, and scale API quality automation in sync with the speed of releases. The old days of manually generating and maintaining test cases, smoke, and integration tests are gone. The cost to generate validation suites is so low, you no longer edit/modify old tests, and no need to spin up costly new environments each time you test.
+- **High quality**: AREX provides an innovative way to automatically capture the full user scenarios in your service and convert them into test cases. You don't need to maintain these cases, as AREX will automatically update and maintain them, ensuring the best quality of your application when it’s time to release.
+- **Accelerate release velocity**: Bypass complex, homegrown frameworks and manual test scripts so you can ship more code, faster.
 
-- **Support a variety of complex business scenarios of verification**: including multi-threaded concurrency, asynchronous callbacks, write operations and so on;
+## How it works
 
-- **Rapid reproduction of production bugs**: directly use the production recorded data in the local environment.
-
-## Technical architecture
-
-![image](https://github.com/arextest/.github/assets/118187476/878dcc46-130a-4694-9d66-34b6ada35d7f)
+![image](https://github.com/arextest/.github/assets/118187476/ddaae182-a72a-49ca-9127-9a0f4f258e2a)
 
 | **Model Name**                                               | **Description**                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
