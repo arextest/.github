@@ -47,7 +47,7 @@ AREX is an automated testing platform by capturing the real users activity and r
 
 ## How it works
 
-![image](https://github.com/arextest/.github/assets/118187476/ddaae182-a72a-49ca-9127-9a0f4f258e2a)
+![workflow](https://github.com/arextest/.github/assets/118187476/1485fd12-1a31-4fe3-8a0a-7e205b2a921b)
 
 | **Model Name**                                               | **Description**                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
