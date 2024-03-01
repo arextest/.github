@@ -73,5 +73,6 @@ AREX is trusted by many known users. Welcome to register the company name in thi
 <td><img src="https://github.com/arextest/.github/assets/118187476/390ad455-5ed2-443e-a1cd-d5de1496821b" alt="united-imaging" width="200" height=""/></td>
 <td><img src="https://github.com/arextest/.github/assets/118187476/5c152539-bb2d-42bc-92a9-d471f719ea52" alt="lexin" width="200" height=""/></td>
 <td><img src="https://github.com/arextest/.github/assets/118187476/e7a5b008-0280-4837-95e2-8184186cff35" alt="linkedcare" width="200" height=""/></td>
+<td><img src="https://github.com/arextest/.github/assets/118187476/30a12602-3c0c-4bc7-9311-724790c1bebb" alt="linkedcare" width="120" height=""/></td>
 </tr>
 </table>
