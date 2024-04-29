@@ -64,18 +64,27 @@ AREX is trusted by many known users. Welcome to register the company name in thi
 
 <table>
 <tr>
-<td><img src="https://github.com/arextest/.github/assets/118187476/111cbd04-d0fd-46c4-91aa-50941edeed3a" alt="Trip" width="200" height=""/></td>
-<td><img src="https://github.com/arextest/.github/assets/118187476/8c896278-9811-4d82-b103-692b716c610d" alt="xyb2b" width="200" height=""/></td>
-<td><img src="https://github.com/arextest/.github/assets/118187476/484b600a-2cda-4471-888c-865edeee55d1" alt="yeahka" width="200" height=""/></td>
-<td><img src="https://github.com/arextest/.github/assets/118187476/62c842ea-21fa-4e0a-ac6b-ec4afc9f6cb9" alt="xyd" width="200" height=""/></td>
+<td><a href="https://trip.com/">
+    <img src="https://github.com/arextest/.github/assets/118187476/111cbd04-d0fd-46c4-91aa-50941edeed3a" alt="Trip" width="200" height=""/></td>
+<td><a href="https://www.xyb2b.com/">
+    <img src="https://github.com/arextest/.github/assets/118187476/8c896278-9811-4d82-b103-692b716c610d" alt="xyb2b" width="200" height=""/></td>
+<td><a href="https://www.yeahka.com/">
+    <img src="https://github.com/arextest/.github/assets/118187476/484b600a-2cda-4471-888c-865edeee55d1" alt="yeahka" width="200" height=""/></td>
+<td><a href="https://www.xyd.cn/home">
+    <img src="https://github.com/arextest/.github/assets/118187476/62c842ea-21fa-4e0a-ac6b-ec4afc9f6cb9" alt="xyd" width="200" height=""/></td>
 </tr>
 <tr>
-<td><img src="https://github.com/arextest/.github/assets/118187476/390ad455-5ed2-443e-a1cd-d5de1496821b" alt="united-imaging" width="200" height=""/></td>
-<td><img src="https://github.com/arextest/.github/assets/118187476/5c152539-bb2d-42bc-92a9-d471f719ea52" alt="lexin" width="200" height=""/></td>
-<td><img src="https://github.com/arextest/.github/assets/118187476/e7a5b008-0280-4837-95e2-8184186cff35" alt="linkedcare" width="200" height=""/></td>
-<td><img src="https://github.com/arextest/.github/assets/118187476/30a12602-3c0c-4bc7-9311-724790c1bebb" alt="linkedcare" width="120" height=""/></td>
+<td><a href="https://www.united-imaging.com/">
+    <img src="https://github.com/arextest/.github/assets/118187476/390ad455-5ed2-443e-a1cd-d5de1496821b" alt="united-imaging" width="200" height=""/></td>
+<td><a href="https://www.lexin.com/">
+    <img src="https://github.com/arextest/.github/assets/118187476/5c152539-bb2d-42bc-92a9-d471f719ea52" alt="lexin" width="200" height=""/></td>
+<td><a href="https://www.linkedcare.cn/">
+    <img src="https://github.com/arextest/.github/assets/118187476/e7a5b008-0280-4837-95e2-8184186cff35" alt="linkedcare" width="200" height=""/></td>
+<td><a href="https://shunsh.sffix.cn/">
+    <img src="https://github.com/arextest/.github/assets/118187476/30a12602-3c0c-4bc7-9311-724790c1bebb" alt="linkedcare" width="120" height=""/></td>
 </tr>
 <tr>
-<td><img src="https://github.com/arextest/arex-agent-java/assets/222770/28d37f8b-1d66-4a2a-9bf6-ff7a94865902" alt="G7E6" width="200" height=""/></td>
+<td><a href="https://www.g7e6.com.cn/">
+    <img src="https://github.com/arextest/arex-agent-java/assets/222770/28d37f8b-1d66-4a2a-9bf6-ff7a94865902" alt="G7E6" width="200" height=""/></td>
 </tr>
 </table>
