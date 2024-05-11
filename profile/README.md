@@ -86,5 +86,7 @@ AREX is trusted by many known users. Welcome to register the company name in thi
 <tr>
 <td><a href="https://www.g7e6.com.cn/">
     <img src="https://github.com/arextest/arex-agent-java/assets/222770/28d37f8b-1d66-4a2a-9bf6-ff7a94865902" alt="G7E6" width="200" height=""/></td>
+<td><a href="https://www.zto.com//">
+    <img src="https://github.com/arextest/arex-agent-java/assets/58769018/e4c9d587-6865-44d9-af17-520d7c9a2f06" alt="linkedcare" width="200" height=""/></td>
 </tr>
 </table>
