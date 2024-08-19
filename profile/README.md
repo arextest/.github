@@ -7,7 +7,7 @@ Validate your app quality with real-world traffic scenarios
 </h1>
 
 <p align="center">
-AREX is an automated testing platform by capturing the real users activity and re-use it for regression API-testing.
+AREX is an automated testing platform by capturing the real users activity and re-use it for API-testing.
 </p>
 
 <p align="center">
@@ -86,7 +86,9 @@ AREX is trusted by many known users. Welcome to register the company name in thi
 <tr>
 <td><a href="https://shunsh.sffix.cn/">
     <img src="https://github.com/arextest/.github/assets/118187476/30a12602-3c0c-4bc7-9311-724790c1bebb" alt="linkedcare" width="120" height=""/></td>
-<td><a href="https://www.zto.com//">
+<td><a href="https://www.zto.com/">
     <img src="https://github.com/arextest/arex-agent-java/assets/118187476/db037689-ba2e-4be4-aacf-35839002ae74" alt="zto" width="200" height=""/></td>
+<td><a href="https://www.micun.com/">
+    <img src="https://github.com/user-attachments/assets/8f8cfba5-d61b-4daa-a153-9079fb82b8ec" alt="micun" width="200" height=""/></td>
 </tr>
 </table>
